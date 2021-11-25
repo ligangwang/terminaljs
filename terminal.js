@@ -1,6 +1,6 @@
 /*! terminal.js | https://github.com/eosterberg/terminaljs */
 
-module.exports = (function () {
+Terminal = (function () {
 
 	var VERSION = '3.0.1';
 
